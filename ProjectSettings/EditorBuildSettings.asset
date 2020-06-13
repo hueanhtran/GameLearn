@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/slide 1/slide 1.unity
+    guid: 1334d493a44838f48ae7d2a86154f779
+  - enabled: 1
     path: Assets/Scenes/Slide 11/Slide 11.unity
     guid: 987b0b15776d4ea4b995650f3b359290
   - enabled: 1
@@ -20,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Slide 34/slide34.unity
     guid: 1199ea7ab5c2a4f4aba2dc87762c16c6
+  - enabled: 1
+    path: Assets/Scenes/slide 2/slide 2.unity
+    guid: eabe773e971106b4485f40a0dfb9d1b9
+  - enabled: 1
+    path: Assets/Scenes/slide 3/slide 3.unity
+    guid: c444a05bc3029a2478db829721285568
   m_configObjects: {}
