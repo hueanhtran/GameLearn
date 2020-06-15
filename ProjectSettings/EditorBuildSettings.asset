@@ -12,13 +12,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Slide 11/Slide 11.unity
     guid: 987b0b15776d4ea4b995650f3b359290
   - enabled: 1
-    path: Assets/Scenes/Slide 30/slide30.unity
+    path: Assets/Scenes/Slide 18/slide18.unity
     guid: 8f710b6833dc8cb49915da64b5b24602
   - enabled: 1
-    path: Assets/Scenes/Slide 32/slide32.unity
+    path: Assets/Scenes/Slide 20/slide20.unity
     guid: 5de0deb4eb003d74887b60691e0e43cd
   - enabled: 1
-    path: Assets/Scenes/Slide 33/slide33.unity
+    path: Assets/Scenes/Slide 21/slide21.unity
     guid: 4fbc819e43bc66d468281a195be148ef
   - enabled: 1
     path: Assets/Scenes/Slide 34/slide34.unity

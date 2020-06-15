@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject Mission, muiten,iconchuT, iconToGiay, iconchuF, iconRanking, XMission, helpYourCustomer, character;
+    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, helpYourCustomer, character, clickhere;
 
     public void OpenPanel()
     {
@@ -23,6 +23,16 @@ public class GameController : MonoBehaviour
        if (Mission != null)
         {
             bool isActive3 = muiten.activeSelf;
+            Mission.SetActive(true);
+        }
+
+    }
+    public void HiddenClickHere()
+    {
+        clickhere.SetActive(false);
+        if (Mission != null)
+        {
+            bool isActive3 = clickhere.activeSelf;
             Mission.SetActive(true);
         }
 
@@ -45,30 +55,10 @@ public class GameController : MonoBehaviour
             iconToGiay.SetActive(true);
         }
     }
-    public void ShowIconChuF()
-    {
-        Mission.SetActive(false);
-        if (iconchuF != null)
-        {
-            bool isActive2 = iconchuF.activeSelf;
-            iconchuF.SetActive(true);
-        }
-    }
-    public void ShowIconRanking()
-    {
-        Mission.SetActive(false);
-        if (iconRanking != null)
-        {
-            bool isActive2 = iconRanking.activeSelf;
-            iconRanking.SetActive(true);
-        }
-    }
     public void CloseXMission()
     {
         iconchuT.SetActive(false);
         iconToGiay.SetActive(false);
-        iconchuF.SetActive(false);
-        iconRanking.SetActive(false);
         if (XMission != null)
         {
             bool isActive2 = XMission.activeSelf;

@@ -146,6 +146,60 @@ TextureImporter:
   - first:
       213: 4499470433880338087
     second: test_47
+  - first:
+      213: 9168340653430732666
+    second: test_0
+  - first:
+      213: -2255054210476411759
+    second: test_1
+  - first:
+      213: -1144662389692550136
+    second: test_2
+  - first:
+      213: 7110475815020868039
+    second: test_3
+  - first:
+      213: 1589848573073041140
+    second: test_4
+  - first:
+      213: -8461842451080592371
+    second: test_5
+  - first:
+      213: 5276143050283355194
+    second: test_6
+  - first:
+      213: 6953931103425925654
+    second: test_7
+  - first:
+      213: 7008326740194145957
+    second: test_8
+  - first:
+      213: -8646220257000739535
+    second: test_9
+  - first:
+      213: 8866990142063784796
+    second: test_10
+  - first:
+      213: -851912929927482080
+    second: test_11
+  - first:
+      213: 5891096873381392915
+    second: test_12
+  - first:
+      213: -8955044939839334704
+    second: test_13
+  - first:
+      213: -7120899136265618036
+    second: test_14
+  - first:
+      213: -5035430462230223680
+    second: test_15
+  - first:
+      213: 8368288096019336915
+    second: test_16
+  - first:
+      213: 1970839931483662708
+    second: test_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
