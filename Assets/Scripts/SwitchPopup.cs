@@ -6,36 +6,37 @@ using UnityEngine.SceneManagement;
 
 public class SwitchPopup : MonoBehaviour
 {
-   public GameObject options, tutorial, muiten, popup, popup2;
+   public GameObject options, tutorial, muiten, popup_muctieu;
+   public bool isCheckClickButtonHelp = false;
 
-   public void ShowPopup() {
-   	   popup.SetActive(false);
-       if (popup2 != null) {
-            bool isActive2 = popup2.activeSelf;
-            popup2.SetActive(true);
-
-	    }
-   }
-   public void ShowMuiTen() {
-        popup2.SetActive(false);
+   public void ShowArrow() {
+        popup_muctieu.SetActive(false);
         if (muiten != null) {
-            bool isActive3 = popup2.activeSelf;
             muiten.SetActive(true);
 	    }
+        isCheckClickButtonHelp = true;
    }
-   public void ChangeColor(Text t){
+    public void ShowTotorial(Text t) {
         t.color = Color.blue;
-        options.SetActive(false);
-        if (tutorial != null) {
-            bool isActive3 = tutorial.activeSelf;
-            tutorial.SetActive(true);
-	    }
-    }
-    public void HiddenOptions() {
-        options.SetActive(false);
-	}
-    public void HiddenTotorial(int index) {
         tutorial.SetActive(false);
+        if (tutorial != null)
+        {   
+            options.SetActive(false);
+            tutorial.SetActive(true);
+        }
+    
+    }
+    public void ShowPopupOptions() {
+        if (isCheckClickButtonHelp) {
+            muiten.SetActive(false);
+            if (options != null)
+            {
+                bool isShow = options.activeSelf;
+                options.SetActive(!isShow);
+            } 
+        }
+	}
+    public void NextScreen(int index){
         SceneManager.LoadScene(index);
     }
 }

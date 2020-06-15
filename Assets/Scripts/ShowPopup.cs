@@ -17,12 +17,4 @@ public class ShowPopup : MonoBehaviour
             obj.SetActive(true);
 		}
 	}
-    public void ShowPopupOptions() {
-        muiten.SetActive(false);
-        if (options != null)
-        {
-            bool isShow = options.activeSelf;
-            options.SetActive(!isShow);
-        } 
-	}
 }
