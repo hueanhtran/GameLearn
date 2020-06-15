@@ -32,7 +32,7 @@ public class GameController : MonoBehaviour
         clickhere.SetActive(false);
         if (Mission != null)
         {
-            bool isActive3 = clickhere.activeSelf;
+            //bool isActive3 = clickhere.activeSelf;
             Mission.SetActive(true);
         }
 
