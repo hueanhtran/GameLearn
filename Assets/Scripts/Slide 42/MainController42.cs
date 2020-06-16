@@ -14,7 +14,7 @@ public class MainController42 : MonoBehaviour
             slide43.SetActive(true);
         }
     }
-    public void ClickXBaiHoc()
+    public void ToiLaKhachHang()
     {
         slide43.SetActive(false);
         if (slide44 != null)
@@ -23,5 +23,4 @@ public class MainController42 : MonoBehaviour
             slide44.SetActive(true);
         }
     }
-
 }
