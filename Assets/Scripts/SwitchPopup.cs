@@ -24,7 +24,9 @@ public class SwitchPopup : MonoBehaviour
             options.SetActive(false);
             tutorial.SetActive(true);
         }
-    
+    }
+    public void HiddenOptions() {
+        options.SetActive(false);
     }
     public void ShowPopupOptions() {
         if (isCheckClickButtonHelp) {
