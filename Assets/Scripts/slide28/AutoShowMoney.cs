@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class AutoShowMoney : MonoBehaviour
 {
-    public GameObject Money, CanvasFeedback;
+    public GameObject Money, CanvasFeedback,CanvasToolTips,CanvasTutorial;
 
     public bool isClick = false;
     void Start(){
@@ -29,6 +29,11 @@ public class AutoShowMoney : MonoBehaviour
     public void closePopupFeedback() {
         if (isClick) {
             CanvasFeedback.SetActive(false);
+            CanvasToolTips.SetActive(true);
         }
+    }
+    public void ShowTutorial() {
+        CanvasToolTips.SetActive(false);
+        CanvasTutorial.SetActive(true);
     }
 }
