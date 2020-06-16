@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, helpYourCustomer, character, clickhere;
+    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8;
 
     public void OpenPanel()
     {
@@ -68,18 +68,18 @@ public class GameController : MonoBehaviour
     public void CloseXMissionTong()
     {
         Mission.SetActive(false);
-        if (helpYourCustomer != null)
+        if (slide8 != null)
         {
-            bool isActive3 = helpYourCustomer.activeSelf;
-            helpYourCustomer.SetActive(true);
+            bool isActive3 = slide8.activeSelf;
+            slide8.SetActive(true);
         }
     }
-    public void ShowCharacter()
+    public void ButtonOKTong()
     {
-        helpYourCustomer.SetActive(false);
+        Mission.SetActive(false);
         if (character != null)
         {
-            bool isActive2 = character.activeSelf;
+            bool isActive3 = character.activeSelf;
             character.SetActive(true);
         }
     }
