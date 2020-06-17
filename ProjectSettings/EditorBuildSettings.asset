@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/slide 1/slide 1.unity
     guid: 1334d493a44838f48ae7d2a86154f779
   - enabled: 1
-    path: Assets/Scenes/Slide 11/Slide 11.unity
+    path: Assets/Scenes/Slide 8/Slide 8.unity
     guid: 987b0b15776d4ea4b995650f3b359290
   - enabled: 1
     path: Assets/Scenes/Slide 18/slide18.unity
@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Slide 21/slide21.unity
     guid: 4fbc819e43bc66d468281a195be148ef
   - enabled: 1
-    path: Assets/Scenes/Slide 34/slide34.unity
+    path: Assets/Scenes/Slide 22/slide22.unity
     guid: 1199ea7ab5c2a4f4aba2dc87762c16c6
   - enabled: 1
     path: Assets/Scenes/slide 2/slide 2.unity
