@@ -32,7 +32,7 @@ public class GameController : MonoBehaviour
         clickhere.SetActive(false);
         if (Mission != null)
         {
-            //bool isActive3 = clickhere.activeSelf;
+            bool isActive3 = clickhere.activeSelf;
             Mission.SetActive(true);
         }
 
@@ -72,6 +72,7 @@ public class GameController : MonoBehaviour
         {
             bool isActive3 = slide8.activeSelf;
             slide8.SetActive(true);
+            muiten.SetActive(true);
         }
     }
     public void ButtonOKTong()
