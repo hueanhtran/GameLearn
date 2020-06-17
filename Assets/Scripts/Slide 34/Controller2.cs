@@ -69,5 +69,10 @@ public class Controller2 : MonoBehaviour
             slide27.SetActive(true);
         }
     }
+    public void NextScreen28(int index)
+    {
+        //muiten2.SetActive(false);
+        SceneManager.LoadScene(index);
+    }
 }
 

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MissionController : MonoBehaviour
 {
@@ -21,5 +22,10 @@ public class MissionController : MonoBehaviour
         TextHorver.SetActive(false);
         Arrow_down.SetActive(false);
     }
-   
+
+    public void NextScreen42(int index)
+    {
+        SceneManager.LoadScene(index);
+    }
+
 }

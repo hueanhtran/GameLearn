@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Runtime.Serialization;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -7,6 +8,8 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8;
+    public bool isClickBtnOk1 = false;
+    public bool isClickBtnOk2 = false;
 
     public void OpenPanel()
     {
@@ -43,7 +46,8 @@ public class GameController : MonoBehaviour
             if (iconchuT != null)
             {
                 bool isActive2 = iconchuT.activeSelf;
-            iconchuT.SetActive(true);
+                iconchuT.SetActive(true);
+                isClickBtnOk1 = true;
         }
     }
     public void ShowIconToGiay()
@@ -53,6 +57,7 @@ public class GameController : MonoBehaviour
         {
             bool isActive2 = iconToGiay.activeSelf;
             iconToGiay.SetActive(true);
+            isClickBtnOk2 = true;
         }
     }
     public void CloseXMission()
@@ -84,6 +89,10 @@ public class GameController : MonoBehaviour
             bool isActive3 = character.activeSelf;
             character.SetActive(true);
         }
+    }
+    public void ClickOk_32()
+    {
+
     }
     public void Talk(int index)
     {
