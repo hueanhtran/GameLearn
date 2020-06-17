@@ -1212,6 +1212,7 @@ MonoBehaviour:
   slide8: {fileID: 1097678243}
   isClickBtnOk1: 0
   isClickBtnOk2: 0
+  checkPiority: 0
 --- !u!1 &578718721
 GameObject:
   m_ObjectHideFlags: 0
