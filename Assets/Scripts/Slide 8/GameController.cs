@@ -73,6 +73,7 @@ public class GameController : MonoBehaviour
             bool isActive3 = slide8.activeSelf;
             slide8.SetActive(true);
             muiten.SetActive(true);
+            clickhere.SetActive(true);
         }
     }
     public void ButtonOKTong()
