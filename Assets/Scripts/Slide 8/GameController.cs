@@ -93,10 +93,6 @@ public class GameController : MonoBehaviour
             }
         }
     }
-    public void ClickOk_32()
-    {
-
-    }
     public void Talk(int index)
     {
         //muiten2.SetActive(false);
