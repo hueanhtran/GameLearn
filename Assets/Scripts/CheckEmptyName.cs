@@ -12,7 +12,7 @@ public class CheckEmptyName : MonoBehaviour
     IEnumerator Check(float seconds,InputField input) {
         yield return new WaitForSeconds(seconds);
         if (input.text != "") {
-            SceneManager.LoadScene(7);
+            SceneManager.LoadScene(5);
 		}
 	}
 }
