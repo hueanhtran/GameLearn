@@ -42,4 +42,8 @@ public class MainController30 : MonoBehaviour
             slide20.SetActive(true);
         }
     }
+    public void next_l3(int index)
+    {
+        SceneManager.LoadScene(index);
+    }
 }

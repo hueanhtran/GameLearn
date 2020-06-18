@@ -15,12 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Slide 18/slide18.unity
     guid: 8f710b6833dc8cb49915da64b5b24602
   - enabled: 1
-    path: Assets/Scenes/Slide 20/slide20.unity
-    guid: 5de0deb4eb003d74887b60691e0e43cd
-  - enabled: 1
-    path: Assets/Scenes/Slide 21/slide21.unity
-    guid: 4fbc819e43bc66d468281a195be148ef
-  - enabled: 1
     path: Assets/Scenes/Slide 22/slide22.unity
     guid: 1199ea7ab5c2a4f4aba2dc87762c16c6
   - enabled: 1
