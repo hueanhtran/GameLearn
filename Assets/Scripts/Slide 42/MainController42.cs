@@ -32,24 +32,24 @@ public class MainController42 : MonoBehaviour
             slide48.SetActive(true);
         }
     }
-    public void DapAn1()
-    {
-        slide48.SetActive(false);
-        if (slide49 != null)
-        {
-            bool isActive2 = slide49.activeSelf;
-            slide49.SetActive(true);
-        }
-    }
-    public void DapAn2()
-    {
-        slide48.SetActive(false);
-        if (slide50 != null)
-        {
-            bool isActive2 = slide50.activeSelf;
-            slide50.SetActive(true);
-        }
-    }
+    // public void DapAn1()
+    // {
+    //     slide48.SetActive(false);
+    //     if (slide49 != null)
+    //     {
+    //         bool isActive2 = slide49.activeSelf;
+    //         slide49.SetActive(true);
+    //     }
+    // }
+    // public void DapAn2()
+    // {
+    //     slide48.SetActive(false);
+    //     if (slide50 != null)
+    //     {
+    //         bool isActive2 = slide50.activeSelf;
+    //         slide50.SetActive(true);
+    //     }
+    // }
     public void ButtonBaiHoc()
     {
         slide49.SetActive(false);
