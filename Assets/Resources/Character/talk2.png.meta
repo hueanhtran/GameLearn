@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: b215ab45b5470ed44a96878b27e5ccf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3687444743500168636
+    second: talk2_0
+  - first:
+      213: -1693256003020650517
+    second: talk2_1
+  - first:
+      213: 8410902963393728383
+    second: talk2_2
+  - first:
+      213: -7076310081948330138
+    second: talk2_3
+  - first:
+      213: -9195201390971015180
+    second: talk2_4
+  - first:
+      213: 995157985695249549
+    second: talk2_5
+  - first:
+      213: -4962962147314908621
+    second: talk2_6
+  - first:
+      213: 2558932938630714051
+    second: talk2_7
+  - first:
+      213: -1853703955318724117
+    second: talk2_8
+  - first:
+      213: 8808726196923749431
+    second: talk2_9
+  - first:
+      213: -8988657769142679793
+    second: talk2_10
+  - first:
+      213: 3708793264513008494
+    second: talk2_11
+  - first:
+      213: -4716440681883109939
+    second: talk2_12
+  - first:
+      213: -4576947786551455353
+    second: talk2_13
+  - first:
+      213: -1047857847418173603
+    second: talk2_14
+  - first:
+      213: 1511413387106711749
+    second: talk2_15
+  - first:
+      213: 8002270026073977405
+    second: talk2_16
+  - first:
+      213: 2395375356801045401
+    second: talk2_17
+  - first:
+      213: 47812116693100443
+    second: talk2_18
+  - first:
+      213: -8814532509311022238
+    second: talk2_19
+  - first:
+      213: 5436712953595389940
+    second: talk2_20
+  - first:
+      213: 3435382674195241494
+    second: talk2_21
+  - first:
+      213: -4792625610010587208
+    second: talk2_22
+  - first:
+      213: -8793520682885093547
+    second: talk2_23
+  - first:
+      213: -5279456093931855943
+    second: talk2_24
+  - first:
+      213: -7826606303669696135
+    second: talk2_25
+  - first:
+      213: -288461376921440687
+    second: talk2_26
+  - first:
+      213: -7550878739655666770
+    second: talk2_27
+  - first:
+      213: 8136965535331325811
+    second: talk2_28
+  - first:
+      213: 1407731796968960364
+    second: talk2_29
+  - first:
+      213: 6353733605850206222
+    second: talk2_30
+  - first:
+      213: 7482136068710131006
+    second: talk2_31
+  - first:
+      213: -5606688956080330978
+    second: talk2_32
+  - first:
+      213: -6166406682287174040
+    second: talk2_33
+  - first:
+      213: 5768480432891781894
+    second: talk2_34
+  - first:
+      213: 6582039844183664371
+    second: talk2_35
+  - first:
+      213: 8853746077145245781
+    second: talk2_36
+  - first:
+      213: -5895745477261364769
+    second: talk2_37
+  - first:
+      213: -3045691835393104156
+    second: talk2_38
+  - first:
+      213: 4101799486812347437
+    second: talk2_39
+  - first:
+      213: -1097582068541870078
+    second: talk2_40
+  - first:
+      213: 4170751233795642665
+    second: talk2_41
+  - first:
+      213: -5630719914006775866
+    second: talk2_42
+  - first:
+      213: -3699584177135525830
+    second: talk2_43
+  - first:
+      213: 5195222856204800191
+    second: talk2_44
+  - first:
+      213: 3624967166571661623
+    second: talk2_45
+  - first:
+      213: -5215988966699833054
+    second: talk2_46
+  - first:
+      213: -3730415605779566723
+    second: talk2_47
+  - first:
+      213: -6489518058089546180
+    second: talk2_48
+  - first:
+      213: 5342302443596633245
+    second: talk2_49
+  - first:
+      213: 8128136802994917286
+    second: talk2_50
+  - first:
+      213: -6205705524182509761
+    second: talk2_51
+  - first:
+      213: -8633504130327369340
+    second: talk2_52
+  - first:
+      213: -424638487323984579
+    second: talk2_53
+  - first:
+      213: -4043094820638121626
+    second: talk2_54
+  - first:
+      213: 2422723503835957536
+    second: talk2_55
+  - first:
+      213: 6481851179857819419
+    second: talk2_56
+  - first:
+      213: 3966495414266303404
+    second: talk2_57
+  - first:
+      213: 3701656126047748511
+    second: talk2_58
+  - first:
+      213: -1663432078776844019
+    second: talk2_59
+  - first:
+      213: 2457649701898020724
+    second: talk2_60
+  - first:
+      213: -1922063512764219808
+    second: talk2_61
+  - first:
+      213: -3617758995307138807
+    second: talk2_62
+  - first:
+      213: -191602368956182603
+    second: talk2_63
+  - first:
+      213: 1703929825388023262
+    second: talk2_64
+  - first:
+      213: -2905460263162197174
+    second: talk2_65
+  - first:
+      213: 218738874292784360
+    second: talk2_66
+  - first:
+      213: -9085734563634760875
+    second: talk2_67
+  - first:
+      213: 984224315717936432
+    second: talk2_68
+  - first:
+      213: -5658933440302374982
+    second: talk2_69
+  - first:
+      213: 5716919979565450427
+    second: talk2_70
+  - first:
+      213: -6834620332725182765
+    second: talk2_71
+  - first:
+      213: -1384915192312704266
+    second: talk2_72
+  - first:
+      213: 1067475162126700004
+    second: talk2_73
+  - first:
+      213: 7265481528696756542
+    second: talk2_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: talk2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428aceea8093dcc0800000000000000
+      internalID: -3687444743500168636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_1
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70822f2a85088e0800000000000000
+      internalID: -1693256003020650517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_2
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0d5daea789b470800000000000000
+      internalID: 8410902963393728383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_3
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66754fce875ebcd90800000000000000
+      internalID: -7076310081948330138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_4
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffaefc9d05146080800000000000000
+      internalID: -9195201390971015180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_5
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8432c85ae28fcd00800000000000000
+      internalID: 995157985695249549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_6
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 9600
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c59fc834002bb0800000000000000
+      internalID: -4962962147314908621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2512b23f7238320800000000000000
+      internalID: 2558932938630714051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ad70f2125646e0800000000000000
+      internalID: -1853703955318724117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73451533ec1ee3a70800000000000000
+      internalID: 8808726196923749431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_10
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0702b6026fd14380800000000000000
+      internalID: -8988657769142679793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_11
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c8a4f2d7487330800000000000000
+      internalID: 3708793264513008494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_12
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f7284036db8eb0800000000000000
+      internalID: -4716440681883109939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_13
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 7680
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811713ec3a6b70c0800000000000000
+      internalID: -4576947786551455353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c88de6d24571f0800000000000000
+      internalID: -1047857847418173603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f34fb77e99f410800000000000000
+      internalID: 1511413387106711749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3235ecd036cd0f60800000000000000
+      internalID: 8002270026073977405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_17
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d9dd12351e3120800000000000000
+      internalID: 2395375356801045401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a377eddcd9a000800000000000000
+      internalID: 47812116693100443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_19
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4269526d7ca580800000000000000
+      internalID: -8814532509311022238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_20
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 5760
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f761d850a5137b40800000000000000
+      internalID: 5436712953595389940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a50fa375eecaf20800000000000000
+      internalID: 3435382674195241494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_22
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf01ed666c2d7db0800000000000000
+      internalID: -4792625610010587208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_23
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557659b678327f580800000000000000
+      internalID: -8793520682885093547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_24
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf9be187aa9bb6b0800000000000000
+      internalID: -5279456093931855943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_25
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794fe0b80f426390800000000000000
+      internalID: -7826606303669696135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_26
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6d21f7ed2ffbf0800000000000000
+      internalID: -288461376921440687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_27
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 3840
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea356c4eac3e53790800000000000000
+      internalID: -7550878739655666770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377150bfa0f4ce070800000000000000
+      internalID: 8136965535331325811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_29
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617b516c94498310800000000000000
+      internalID: 1407731796968960364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_30
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d92e0d0ffc2850800000000000000
+      internalID: 6353733605850206222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_31
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ea98cc13e5d760800000000000000
+      internalID: 7482136068710131006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_32
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e9b6991a0132b0800000000000000
+      internalID: -5606688956080330978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_33
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e8da12bc58c6aa0800000000000000
+      internalID: -6166406682287174040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_34
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 1920
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036e481462cd0050800000000000000
+      internalID: 5768480432891781894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e80a7d5a185b50800000000000000
+      internalID: 6582039844183664371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_36
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55820c3e523deda70800000000000000
+      internalID: 8853746077145245781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_37
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd178b5b9ba1e2ea0800000000000000
+      internalID: -5895745477261364769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk2_38
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 0
+        width: 1125
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6261899678bb5d0800000000000000
+      internalID: -3045691835393104156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
