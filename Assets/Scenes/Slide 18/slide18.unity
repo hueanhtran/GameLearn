@@ -130,7 +130,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 244212150}
-  - component: {fileID: 244212151}
   m_Layer: 5
   m_Name: Back_Next Button
   m_TagString: Untagged
@@ -158,18 +157,6 @@ RectTransform:
   m_AnchoredPosition: {x: -49.042713, y: 3.998036}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &244212151
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 244212149}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f34e9fd476f1f0e46afb8f2a4672ebf2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &367418584
 GameObject:
   m_ObjectHideFlags: 0
@@ -371,7 +358,7 @@ GameObject:
   - component: {fileID: 586558820}
   - component: {fileID: 586558819}
   m_Layer: 5
-  m_Name: Next
+  m_Name: Next2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -583,7 +570,7 @@ GameObject:
   - component: {fileID: 641141245}
   - component: {fileID: 641141244}
   m_Layer: 5
-  m_Name: Back
+  m_Name: Back1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1038,7 +1025,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 779968315}
-  - component: {fileID: 779968316}
   m_Layer: 5
   m_Name: Back_Next Button
   m_TagString: Untagged
@@ -1067,18 +1053,6 @@ RectTransform:
   m_AnchoredPosition: {x: -49.042713, y: 3.998036}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &779968316
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 779968314}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f34e9fd476f1f0e46afb8f2a4672ebf2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &786805044
 GameObject:
   m_ObjectHideFlags: 0
@@ -1158,7 +1132,7 @@ GameObject:
   - component: {fileID: 883825533}
   - component: {fileID: 883825532}
   m_Layer: 5
-  m_Name: Next
+  m_Name: Next3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1486,7 +1460,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1137179526}
-  - component: {fileID: 1137179527}
   m_Layer: 5
   m_Name: 'Back_Next Button '
   m_TagString: Untagged
@@ -1515,18 +1488,6 @@ RectTransform:
   m_AnchoredPosition: {x: -49.042713, y: 3.998036}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1137179527
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1137179525}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f34e9fd476f1f0e46afb8f2a4672ebf2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1145894206
 GameObject:
   m_ObjectHideFlags: 0
@@ -1930,7 +1891,7 @@ GameObject:
   - component: {fileID: 1651871880}
   - component: {fileID: 1651871879}
   m_Layer: 5
-  m_Name: Back
+  m_Name: Back2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2163,7 +2124,7 @@ GameObject:
   - component: {fileID: 1752502729}
   - component: {fileID: 1752502728}
   m_Layer: 5
-  m_Name: slied21
+  m_Name: slide21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
