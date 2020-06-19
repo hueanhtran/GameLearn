@@ -867,7 +867,6 @@ GameObject:
   - component: {fileID: 326513352}
   - component: {fileID: 326513351}
   - component: {fileID: 326513350}
-  - component: {fileID: 326513349}
   m_Layer: 5
   m_Name: CellPhoneButton
   m_TagString: Untagged
@@ -894,29 +893,6 @@ RectTransform:
   m_AnchoredPosition: {x: 454.07996, y: -263.4}
   m_SizeDelta: {x: 112.27399, y: 114.97461}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &326513349
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 326513347}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  simpleTooltipStyle: {fileID: 11400000, guid: a104288cd74ebc84d80f27ae9b51d26c, type: 2}
-  infoLeft: '
-
-    gvsgsgjesilpgjesl;gj
-
-    gesnglesotgiwehnaog
-
-    geshgiklsehngseiognaseg'
-  infoRight: 'segsegmnsleigjnmseop
-
-    gesngklsebnilgsotg'
 --- !u!114 &326513350
 MonoBehaviour:
   m_ObjectHideFlags: 0
