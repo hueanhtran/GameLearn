@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 249180677}
   - component: {fileID: 249180679}
   - component: {fileID: 249180678}
+  - component: {fileID: 249180680}
   m_Layer: 5
   m_Name: Plane1
   m_TagString: Untagged
@@ -195,6 +196,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249180676}
   m_CullTransparentMesh: 0
+--- !u!95 &249180680
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 249180676}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2aaf032c81b06134e9707022841dd027, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &271628851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1022,6 +1042,7 @@ GameObject:
   - component: {fileID: 2033437804}
   - component: {fileID: 2033437806}
   - component: {fileID: 2033437805}
+  - component: {fileID: 2033437807}
   m_Layer: 5
   m_Name: Plane2
   m_TagString: Untagged
@@ -1085,3 +1106,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2033437803}
   m_CullTransparentMesh: 0
+--- !u!95 &2033437807
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033437803}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b421a0c944399494b8076ccc5c3bd946, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
