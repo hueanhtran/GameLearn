@@ -972,6 +972,7 @@ GameObject:
   - component: {fileID: 474567261}
   - component: {fileID: 474567260}
   - component: {fileID: 474567259}
+  - component: {fileID: 474567262}
   m_Layer: 5
   m_Name: ButtonTiepTuc
   m_TagString: Untagged
@@ -1016,7 +1017,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -1089,6 +1090,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 474567257}
   m_CullTransparentMesh: 0
+--- !u!95 &474567262
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474567257}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 89b49bc4bca8fe7429ba5f4ba3203774, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &482182190
 GameObject:
   m_ObjectHideFlags: 0
@@ -2082,6 +2102,7 @@ GameObject:
   - component: {fileID: 635540829}
   - component: {fileID: 635540828}
   - component: {fileID: 635540827}
+  - component: {fileID: 635540830}
   m_Layer: 5
   m_Name: TiepTucButton
   m_TagString: Untagged
@@ -2126,7 +2147,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -2199,6 +2220,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 635540825}
   m_CullTransparentMesh: 0
+--- !u!95 &635540830
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 635540825}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 15277f8cd65805840b1c0f5290824379, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &690205120
 GameObject:
   m_ObjectHideFlags: 0
@@ -2457,7 +2497,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -3097,7 +3137,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.2999878, y: -431.40002}
+  m_AnchoredPosition: {x: -1.2999878, y: -431.4}
   m_SizeDelta: {x: -455.78015, y: 426.53796}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &893105451
@@ -3389,6 +3429,7 @@ GameObject:
   - component: {fileID: 1010381690}
   - component: {fileID: 1010381689}
   - component: {fileID: 1010381688}
+  - component: {fileID: 1010381691}
   m_Layer: 5
   m_Name: ButtonTiepTuc
   m_TagString: Untagged
@@ -3433,7 +3474,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -3506,6 +3547,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1010381686}
   m_CullTransparentMesh: 0
+--- !u!95 &1010381691
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010381686}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5fdf59213d1e1ac449eaff24a5bec713, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1016438124
 GameObject:
   m_ObjectHideFlags: 0
@@ -4188,6 +4248,7 @@ GameObject:
   - component: {fileID: 1333764100}
   - component: {fileID: 1333764099}
   - component: {fileID: 1333764098}
+  - component: {fileID: 1333764101}
   m_Layer: 5
   m_Name: ButtonTiepTuc
   m_TagString: Untagged
@@ -4232,7 +4293,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -4305,6 +4366,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1333764096}
   m_CullTransparentMesh: 0
+--- !u!95 &1333764101
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333764096}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 284073df3004346468be829e334a9493, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1351494183
 GameObject:
   m_ObjectHideFlags: 0
@@ -5059,6 +5139,7 @@ GameObject:
   - component: {fileID: 1527602946}
   - component: {fileID: 1527602945}
   - component: {fileID: 1527602944}
+  - component: {fileID: 1527602947}
   m_Layer: 5
   m_Name: ButtonBaiHoc
   m_TagString: Untagged
@@ -5103,7 +5184,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 3
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -5176,6 +5257,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1527602942}
   m_CullTransparentMesh: 0
+--- !u!95 &1527602947
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527602942}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d8336a75d34125a419d0818e8e171c26, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1536372029
 GameObject:
   m_ObjectHideFlags: 0
@@ -6558,7 +6658,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -6.9302673, y: -116}
+  m_AnchoredPosition: {x: -6.930237, y: -116}
   m_SizeDelta: {x: -518.6667, y: -259.3647}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1932264926
@@ -7240,7 +7340,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2101591869}
   m_HandleRect: {fileID: 2101591868}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1.0000002
   m_Size: 0.629556
   m_NumberOfSteps: 0
   m_OnValueChanged:
