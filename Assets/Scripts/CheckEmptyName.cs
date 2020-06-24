@@ -15,7 +15,7 @@ public class CheckEmptyName : MonoBehaviour
             NameCompany1.tip1 = input.text + " rất hiểu khách và có dịch vụ chăm sóc rất tuyệt vời.";
             NameCompany2.tip2 = "Sản phẩm của " + input.text + " không quá tệ. Nhưng tôi nghĩ họ vẫn nên cải thiện dịch vụ chăm sóc khách hàng.";
             NameCompany3.tip3 = "Sản phẩm của " + input.text + " không quá tệ. Nhưng tôi nghĩ họ vẫn nên cải thiện dịch vụ chăm sóc khách hàng.";
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene(4);
 		}
 	}
 }
