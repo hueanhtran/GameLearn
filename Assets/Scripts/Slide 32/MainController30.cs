@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
 public class MainController30 : MonoBehaviour
 {
-    //public AudioClip voice;
+    public AudioSource myVoice;
+    public AudioClip hello;
+    public AudioClip gudluk;
     public GameObject slide18, slide20, slide21;
+
     public void next_l1()
     {
         slide18.SetActive(false);
@@ -14,7 +16,8 @@ public class MainController30 : MonoBehaviour
         {
             bool isActive3 = slide18.activeSelf;
             slide20.SetActive(true);
-            //audio
+            myVoice.clip = hello;
+            myVoice.Play();
         }
     }
     public void back_l1()
@@ -24,7 +27,10 @@ public class MainController30 : MonoBehaviour
         {
             bool isActive3 = slide20.activeSelf;
             slide18.SetActive(true);
+            myVoice.clip = gudluk;
+            myVoice.Play();
         }
+       // myVoice.Play(gudluk);
     }
     public void next_l2()
     {
