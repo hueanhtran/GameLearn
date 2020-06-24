@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8;
+    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8,NextTurnButtonXam,HoverTipAdvisor;
     public bool isClickBtnOk1 = false;
     public bool isClickBtnOk2 = false;
     public int checkPiority = 0;
@@ -48,6 +48,7 @@ public class GameController : MonoBehaviour
                 bool isActive2 = iconchuT.activeSelf;
                 iconchuT.SetActive(true);    
         }
+        HoverTipAdvisor.SetActive(false);
         isClickBtnOk1 = true;
     }
     public void ShowIconToGiay()
@@ -60,6 +61,7 @@ public class GameController : MonoBehaviour
             
         }
         isClickBtnOk2 = true;
+        NextTurnButtonXam.SetActive(false);
     }
     public void CloseXMission()
     {
