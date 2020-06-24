@@ -4,16 +4,22 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 public class HoverButtonT : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    public GameObject iconchuTButtonHover;
-
+    public GameObject CanvasIconHoverBtnT;
+    int i = 0;
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
-        iconchuTButtonHover.SetActive(true);
+        Debug.Log("Mouse enter" + i++);
+        if (CanvasIconHoverBtnT != null) {
+            CanvasIconHoverBtnT.SetActive(true);
+        }
     }
 
     // Detect when Cursor leaves the GameObject
     public void OnPointerExit(PointerEventData pointerEventData)
     {
-        iconchuTButtonHover.SetActive(false);
+        // Debug.Log("Mouse exit" + i++);
+        if (CanvasIconHoverBtnT != null) {
+            CanvasIconHoverBtnT.SetActive(false);
+        }
     }
 }
