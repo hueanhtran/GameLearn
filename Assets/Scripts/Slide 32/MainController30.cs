@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainController30 : MonoBehaviour
 {
+    public AudioClip voice;
     public GameObject slide18, slide20, slide21;
     public void next_l1()
     {
@@ -13,6 +14,7 @@ public class MainController30 : MonoBehaviour
         {
             bool isActive3 = slide18.activeSelf;
             slide20.SetActive(true);
+            audio
         }
     }
     public void back_l1()
