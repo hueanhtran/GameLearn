@@ -1279,20 +1279,19 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 670319992}
-        m_MethodName: PlayOneShot
-        m_Mode: 2
+      - m_Target: {fileID: 490074067}
+        m_MethodName: CloseXMission
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 9e326d585b303594c9cdd95b95850ae1,
-            type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 490074067}
-        m_MethodName: CloseXMission
+      - m_Target: {fileID: 490074068}
+        m_MethodName: clickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1773,7 +1772,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 702469843}
   m_Direction: 2
   m_Value: 0.99999994
-  m_Size: 0.48453864
+  m_Size: 0.4845386
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1845,6 +1844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 490074066}
   - component: {fileID: 490074067}
+  - component: {fileID: 490074068}
   m_Layer: 5
   m_Name: GameController
   m_TagString: Untagged
@@ -1894,6 +1894,21 @@ MonoBehaviour:
   isClickBtnOk1: 0
   isClickBtnOk2: 0
   checkPiority: 0
+--- !u!114 &490074068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490074065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbc7b3484c8b4b4f8f1621f29e6245c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myFX: {fileID: 837640726}
+  hoverFx: {fileID: 0}
+  clickFx: {fileID: 8300000, guid: 9e326d585b303594c9cdd95b95850ae1, type: 3}
 --- !u!1 &524175863
 GameObject:
   m_ObjectHideFlags: 0
@@ -3118,9 +3133,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e443c132912db9a40bab5bc6c367d7d4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4ea3bc60480cd8a4fbbd4e3ef4127d66, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.3
+  m_Volume: 0.381
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3948,6 +3963,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 490074067}
         m_MethodName: ShowIconToGiay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 490074068}
+        m_MethodName: clickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4951,7 +4977,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1166124293
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5117,6 +5143,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 490074067}
         m_MethodName: CloseXMission
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 490074068}
+        m_MethodName: clickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6586,6 +6623,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1674832831}
   - component: {fileID: 1674832832}
+  - component: {fileID: 1674832833}
   m_Layer: 5
   m_Name: Controller
   m_TagString: Untagged
@@ -6630,6 +6668,21 @@ MonoBehaviour:
   popup_muctieu: {fileID: 607100972}
   MissionTong: {fileID: 1166124292}
   isCheckClickButtonHelp: 0
+--- !u!114 &1674832833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674832830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbc7b3484c8b4b4f8f1621f29e6245c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myFX: {fileID: 0}
+  hoverFx: {fileID: 0}
+  clickFx: {fileID: 0}
 --- !u!1 &1689468834
 GameObject:
   m_ObjectHideFlags: 0
@@ -7233,13 +7286,12 @@ MonoBehaviour:
           m_StringArgument: Slide14
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 670319992}
-        m_MethodName: PlayOneShot
-        m_Mode: 2
+      - m_Target: {fileID: 490074068}
+        m_MethodName: clickSound
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 9e326d585b303594c9cdd95b95850ae1,
-            type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -7890,6 +7942,17 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 1219821254}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 490074068}
+        m_MethodName: clickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
