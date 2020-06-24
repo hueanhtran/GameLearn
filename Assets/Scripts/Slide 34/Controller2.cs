@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Controller2 : MonoBehaviour
 {
-    public GameObject QS1,QS2,QS3,slide22, slide35, slide23,slide24,slide25, slide27;
+    public GameObject QS1,QS2,QS3,slide22, slide35, slide23,slide24,slide25, slide27, slide28;
     public void iCan()
     {
         slide22.SetActive(false);
@@ -71,8 +71,11 @@ public class Controller2 : MonoBehaviour
     }
     public void NextScreen28(int index)
     {
-        //muiten2.SetActive(false);
-        SceneManager.LoadScene(index);
+        slide27.SetActive(false);
+        if (slide28 != null)
+        {
+            slide28.SetActive(true);
+        }
     }
 }
 

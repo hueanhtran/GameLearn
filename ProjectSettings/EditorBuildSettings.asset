@@ -24,9 +24,6 @@ EditorBuildSettings:
     path: Assets/Scenes/slide 3/slide 3.unity
     guid: c444a05bc3029a2478db829721285568
   - enabled: 1
-    path: Assets/Scenes/Slide28/slide28.unity
-    guid: 2cf30a6419129e84c8327361f7672cb9
-  - enabled: 1
     path: Assets/Scenes/Slide 42/Slide 42.unity
     guid: 2626738c370ec3d4290a33834c227589
   m_configObjects: {}
