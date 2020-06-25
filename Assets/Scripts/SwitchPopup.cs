@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class SwitchPopup : MonoBehaviour
 {
-   public GameObject options, tutorial, muiten, popup_muctieu, MissionTong;
+   public GameObject options, tutorial, muiten, popup_muctieu,tutophone;
    public bool isCheckClickButtonHelp = false;
 
    public void ShowArrow() {
@@ -40,10 +40,10 @@ public class SwitchPopup : MonoBehaviour
 	}
     public void NextSlide8(){
         tutorial.SetActive(false);
-        if (MissionTong != null)
+        if (tutophone != null)
         {
             bool isActive3 = tutorial.activeSelf;
-            MissionTong.SetActive(true);
+            tutophone.SetActive(true);
         }
     }
 }

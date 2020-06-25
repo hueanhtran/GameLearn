@@ -7,10 +7,22 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8,NextTurnButtonXam,HoverTipAdvisor;
+    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8,NextTurnButtonXam,HoverTipAdvisor, buttonPhone, Tuto_phone;
     public bool isClickBtnOk1 = false;
     public bool isClickBtnOk2 = false;
     public int checkPiority = 0;
+
+    public void open_Mission()
+    {
+        if (buttonPhone != null)
+        {
+            bool isActive3 = Mission.activeSelf;
+            Mission.SetActive(true);
+            Tuto_phone.SetActive(false);
+
+        }
+
+    }
     public void OpenPanel()
     {
         if (Mission != null)
@@ -76,6 +88,7 @@ public class GameController : MonoBehaviour
     public void CloseXMissionTong()
     {
         Mission.SetActive(false);
+        Tuto_phone.SetActive(true);
         if (slide8 != null)
         {
             bool isActive3 = slide8.activeSelf;
