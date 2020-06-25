@@ -1244,6 +1244,7 @@ GameObject:
   - component: {fileID: 482182194}
   - component: {fileID: 482182193}
   - component: {fileID: 482182192}
+  - component: {fileID: 482182195}
   m_Layer: 5
   m_Name: Slide50
   m_TagString: Untagged
@@ -1333,6 +1334,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &482182195
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482182190}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fc98a1bb68b72ac48a81500feddc823c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &497475208
 GameObject:
   m_ObjectHideFlags: 0
@@ -2063,6 +2083,7 @@ GameObject:
   - component: {fileID: 614983694}
   - component: {fileID: 614983693}
   - component: {fileID: 614983692}
+  - component: {fileID: 614983695}
   m_Layer: 5
   m_Name: Slide 42
   m_TagString: Untagged
@@ -2151,6 +2172,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &614983695
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614983690}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3bde0650eb6c8c648b27661d58809f7c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &635540825
 GameObject:
   m_ObjectHideFlags: 0
@@ -2394,7 +2434,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1563559701}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.2319459
+  m_Size: 0.23194589
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3382,7 +3422,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.2999878, y: -431.40002}
+  m_AnchoredPosition: {x: -1.3000488, y: -431.40002}
   m_SizeDelta: {x: -455.78015, y: 426.53796}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &893105451
@@ -4290,6 +4330,7 @@ GameObject:
   - component: {fileID: 1169421290}
   - component: {fileID: 1169421289}
   - component: {fileID: 1169421288}
+  - component: {fileID: 1169421291}
   m_Layer: 5
   m_Name: Slide49
   m_TagString: Untagged
@@ -4379,6 +4420,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &1169421291
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169421286}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f03a9aaa1231c74ab6e18be2ee03879, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1181920190
 GameObject:
   m_ObjectHideFlags: 0
@@ -5199,6 +5259,7 @@ GameObject:
   - component: {fileID: 1391009104}
   - component: {fileID: 1391009103}
   - component: {fileID: 1391009102}
+  - component: {fileID: 1391009105}
   m_Layer: 5
   m_Name: Slide52
   m_TagString: Untagged
@@ -5288,6 +5349,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &1391009105
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391009100}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6493114a1e073d54f8381e91e9fe0c83, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1449157131
 GameObject:
   m_ObjectHideFlags: 0
@@ -7516,7 +7596,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -6.930237, y: -116}
+  m_AnchoredPosition: {x: -6.930176, y: -116}
   m_SizeDelta: {x: -518.6667, y: -259.3647}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1932264926
@@ -8371,7 +8451,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2101591869}
   m_HandleRect: {fileID: 2101591868}
   m_Direction: 2
-  m_Value: 1.0000002
+  m_Value: 1.0000001
   m_Size: 0.629556
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -8500,6 +8580,7 @@ GameObject:
   - component: {fileID: 2106680158}
   - component: {fileID: 2106680157}
   - component: {fileID: 2106680156}
+  - component: {fileID: 2106680159}
   m_Layer: 5
   m_Name: Slide 44
   m_TagString: Untagged
@@ -8589,6 +8670,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &2106680159
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2106680154}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fd9412ae84a8e9a4189f0e0dd9366a69, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2118326139
 GameObject:
   m_ObjectHideFlags: 0
