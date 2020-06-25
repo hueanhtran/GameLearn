@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8,NextTurnButtonXam,HoverTipAdvisor, buttonPhone, Tuto_phone;
+    public GameObject Mission, muiten,iconchuT, iconToGiay, XMission, character, clickhere, slide8,NextTurnButtonXam,HoverTipAdvisor, buttonPhone, Tuto_phone, openTipAdvisor,openTipAdvisor2;
     public bool isClickBtnOk1 = false;
     public bool isClickBtnOk2 = false;
     public int checkPiority = 0;
@@ -79,6 +79,9 @@ public class GameController : MonoBehaviour
     {
         iconchuT.SetActive(false);
         iconToGiay.SetActive(false);
+        HoverTipAdvisor.SetActive(true);
+        openTipAdvisor.SetActive(false);
+        openTipAdvisor2.SetActive(false);
         if (XMission != null)
         {
             bool isActive2 = XMission.activeSelf;
