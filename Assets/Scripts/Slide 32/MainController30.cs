@@ -48,6 +48,8 @@ public class MainController30 : MonoBehaviour
         {
             bool isActive3 = slide20.activeSelf;
             slide20.SetActive(true);
+            myVoice.clip = hello;
+            myVoice.Play();
         }
     }
     public void next_l3(int index)
