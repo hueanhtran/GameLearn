@@ -8,18 +8,18 @@ public class HoverButtonT : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
     int i = 0;
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
-        Debug.Log("Mouse enter" + i++);
-        if (CanvasIconHoverBtnT != null) {
-            CanvasIconHoverBtnT.SetActive(true);
-        }
+        // Debug.Log("Mouse enter" + i++);
+        // if (CanvasIconHoverBtnT != null) {
+        //     CanvasIconHoverBtnT.SetActive(true);
+        // }
     }
 
     // Detect when Cursor leaves the GameObject
     public void OnPointerExit(PointerEventData pointerEventData)
     {
         // Debug.Log("Mouse exit" + i++);
-        if (CanvasIconHoverBtnT != null) {
-            CanvasIconHoverBtnT.SetActive(false);
-        }
+        // if (CanvasIconHoverBtnT != null) {
+        //     CanvasIconHoverBtnT.SetActive(false);
+        // }
     }
 }

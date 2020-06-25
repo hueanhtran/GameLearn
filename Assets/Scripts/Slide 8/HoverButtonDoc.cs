@@ -8,12 +8,12 @@ public class HoverButtonDoc : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
-        IconToGiayButtonHover.SetActive(true);
+        // IconToGiayButtonHover.SetActive(true);
     }
 
     // Detect when Cursor leaves the GameObject
     public void OnPointerExit(PointerEventData pointerEventData)
     {
-        IconToGiayButtonHover.SetActive(false);
+        // IconToGiayButtonHover.SetActive(false);
     }
 }
