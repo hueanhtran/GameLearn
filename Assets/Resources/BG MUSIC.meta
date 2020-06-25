@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Resources/BG MUSIC.meta
 guid: 487b1f574e5a18b448ecb667ee2e7b0b
+=======
+guid: cdb4efe7a3985f74a83bc8390e45107a
+>>>>>>> b0ce02a1e5a39f60de0c5b6c16a5e9bd7f357a82:Assets/Controller.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
