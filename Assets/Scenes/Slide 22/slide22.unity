@@ -3494,7 +3494,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 206, y: -157}
+  m_AnchoredPosition: {x: 260, y: -157}
   m_SizeDelta: {x: 146.9294, y: 146.9294}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &662217376
@@ -6246,6 +6246,7 @@ GameObject:
   - component: {fileID: 1096667648}
   - component: {fileID: 1096667647}
   - component: {fileID: 1096667646}
+  - component: {fileID: 1096667650}
   m_Layer: 5
   m_Name: CellPhoneButton
   m_TagString: Untagged
@@ -6382,6 +6383,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1096667644}
   m_CullTransparentMesh: 0
+--- !u!114 &1096667650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1096667644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af40ee0acec86949a15ef8e44faec03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanvasHover: {fileID: 265414425}
 --- !u!1 &1102645863
 GameObject:
   m_ObjectHideFlags: 0
